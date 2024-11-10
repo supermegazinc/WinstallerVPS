@@ -26,8 +26,7 @@ This guide provides step-by-step instructions for installing Windows in almost a
     - Download custom ISO: `nano script.sh` and modify the "iso_os_url"
 
 - Perform installation:
-    - Install in custom disk (optional): `./script.sh $disk`
-    - `./script.sh` (default disk: /dev/sda)
+    - `./script.sh` (if you want to specify a custom disk "./script.sh $disk". default disk: /dev/sda)
     - The process takes approximately 15 minutes and completes when the ssh session disconnects due to the machine rebooting. If the script fail, try running it again at least two times.
 
 ### 2. Connnect to the VPS via VNC to install Windows
