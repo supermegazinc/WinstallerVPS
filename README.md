@@ -7,6 +7,17 @@ Full credits to the author of the original idea [goku6464646](https://github.com
 
 This guide provides step-by-step instructions for installing Windows in almost any VPS. Please be aware that you assume full responsibility for all risks associated with this installation.
 
+- Tested VPS:
+    - Contabo
+    - Heltzner
+
+- Tested Resuce OS:
+    - Debian Rescue
+
+- Tested Windows versions:
+    - 10 LTSC
+    - 10 Server 2019
+
 ## Prerequisites
 
 - A VPS with VNC and linux rescue system
