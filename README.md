@@ -1,11 +1,11 @@
-# WIstaller - Installation Guide
+# WInstaller - Installation Guide
 
 ## Disclaimer
-Full credits to the author of the original idea [goku6464646](https://github.com/goku6464646)
+Full credits to the author of the original idea [goku6464646](https://github.com/goku6464646).
+Please be aware that you assume full responsibility for all risks associated with this installation.
 
 ## Introduction
-
-This guide provides step-by-step instructions for installing Windows in almost any VPS. Please be aware that you assume full responsibility for all risks associated with this installation.
+This guide provides step-by-step instructions for installing Windows in almost any VPS. 
 
 - Tested VPS:
     - Contabo
